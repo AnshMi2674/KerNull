@@ -1,0 +1,4 @@
+../Src/list.c:26:6:list_init	16	static
+../Src/list.c:52:6:list_append	16	static
+../Src/list.c:90:8:list_pop_front	24	static
+../Src/list.c:146:6:list_remove	24	static

@@ -1,0 +1,9 @@
+../Src/kernel.c:136:6:kernel_init	1
+../Src/kernel.c:162:13:task_exit_error	1
+../Src/kernel.c:191:9:kernel_create_task	2
+../Src/kernel.c:356:13:scheduler_pick_next	2
+../Src/kernel.c:403:13:restore_context	1
+../Src/kernel.c:508:6:kernel_start	2
+../Src/kernel.c:568:6:kernel_tick	1
+../Src/kernel.c:587:6:SVC_Handler	1
+../Src/kernel.c:640:6:PendSV_Handler	1

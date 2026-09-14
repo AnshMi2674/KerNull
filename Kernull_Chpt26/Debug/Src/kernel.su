@@ -1,0 +1,9 @@
+../Src/kernel.c:136:6:kernel_init	8	static
+../Src/kernel.c:162:13:task_exit_error	4	static
+../Src/kernel.c:191:9:kernel_create_task	24	static
+../Src/kernel.c:356:13:scheduler_pick_next	8	static
+../Src/kernel.c:403:13:restore_context	0	static,ignoring_inline_asm
+../Src/kernel.c:508:6:kernel_start	8	static,ignoring_inline_asm
+../Src/kernel.c:568:6:kernel_tick	4	static
+../Src/kernel.c:587:6:SVC_Handler	0	static,ignoring_inline_asm
+../Src/kernel.c:640:6:PendSV_Handler	0	static,ignoring_inline_asm

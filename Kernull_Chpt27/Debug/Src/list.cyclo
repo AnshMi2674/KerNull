@@ -1,0 +1,4 @@
+../Src/list.c:28:6:list_init	1
+../Src/list.c:54:6:list_append	2
+../Src/list.c:92:8:list_pop_front	3
+../Src/list.c:148:6:list_remove	9
