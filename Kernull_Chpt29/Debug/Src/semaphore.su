@@ -1,0 +1,5 @@
+../Src/semaphore.c:51:6:semaphore_init	16	static
+../Src/semaphore.c:58:6:semaphore_init_binary	16	static
+../Src/semaphore.c:79:15:semaphore_pick_highest_priority_waiter	24	static
+../Src/semaphore.c:105:9:semaphore_wait	24	static
+../Src/semaphore.c:172:9:semaphore_signal	24	static
