@@ -1,0 +1,17 @@
+../Src/kernel.c:129:6:kernel_init	16	static
+../Src/kernel.c:150:13:task_exit_error	4	static
+../Src/kernel.c:174:13:kernel_request_preemption_if_needed	16	static
+../Src/kernel.c:193:9:kernel_create_task	32	static
+../Src/kernel.c:248:15:pick_highest_priority_ready_task	16	static
+../Src/kernel.c:281:13:scheduler_pick_next	8	static
+../Src/kernel.c:323:13:restore_context	0	static,ignoring_inline_asm
+../Src/kernel.c:347:6:kernel_start	8	static,ignoring_inline_asm
+../Src/kernel.c:389:6:kernel_tick	8	static
+../Src/kernel.c:407:8:kernel_get_current_task	4	static
+../Src/kernel.c:412:6:kernel_request_reschedule	4	static
+../Src/kernel.c:417:6:kernel_wake_task	16	static
+../Src/kernel.c:437:9:kernel_in_isr	16	static,ignoring_inline_asm
+../Src/kernel.c:453:6:kernel_enter_critical	4	static,ignoring_inline_asm
+../Src/kernel.c:465:6:kernel_exit_critical	4	static,ignoring_inline_asm
+../Src/kernel.c:475:6:SVC_Handler	0	static,ignoring_inline_asm
+../Src/kernel.c:491:6:PendSV_Handler	0	static,ignoring_inline_asm

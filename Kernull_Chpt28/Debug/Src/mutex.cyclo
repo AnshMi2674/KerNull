@@ -1,0 +1,4 @@
+../Src/mutex.c:29:6:mutex_init	1
+../Src/mutex.c:61:15:mutex_pick_highest_priority_waiter	4
+../Src/mutex.c:87:9:mutex_lock	5
+../Src/mutex.c:157:9:mutex_unlock	5

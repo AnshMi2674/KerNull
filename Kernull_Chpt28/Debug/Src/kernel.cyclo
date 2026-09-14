@@ -1,0 +1,17 @@
+../Src/kernel.c:129:6:kernel_init	2
+../Src/kernel.c:150:13:task_exit_error	1
+../Src/kernel.c:174:13:kernel_request_preemption_if_needed	3
+../Src/kernel.c:193:9:kernel_create_task	4
+../Src/kernel.c:248:15:pick_highest_priority_ready_task	3
+../Src/kernel.c:281:13:scheduler_pick_next	3
+../Src/kernel.c:323:13:restore_context	1
+../Src/kernel.c:347:6:kernel_start	3
+../Src/kernel.c:389:6:kernel_tick	1
+../Src/kernel.c:407:8:kernel_get_current_task	1
+../Src/kernel.c:412:6:kernel_request_reschedule	1
+../Src/kernel.c:417:6:kernel_wake_task	1
+../Src/kernel.c:437:9:kernel_in_isr	1
+../Src/kernel.c:453:6:kernel_enter_critical	1
+../Src/kernel.c:465:6:kernel_exit_critical	1
+../Src/kernel.c:475:6:SVC_Handler	1
+../Src/kernel.c:491:6:PendSV_Handler	1
