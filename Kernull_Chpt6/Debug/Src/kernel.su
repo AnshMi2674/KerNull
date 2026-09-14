@@ -1,0 +1,5 @@
+../Src/kernel.c:10:6:kernel_init	4	static
+../Src/kernel.c:16:13:task_exit_error	4	static
+../Src/kernel.c:25:9:kernel_create_task	24	static
+../Src/kernel.c:98:13:scheduler_pick_next	4	static
+../Src/kernel.c:107:6:kernel_start	4	static
